@@ -1,4 +1,4 @@
-package Task2;
+package Task1;
 import java.util.Scanner;
 public class Bank {
     private int balance;
